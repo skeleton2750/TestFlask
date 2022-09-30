@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestFlask</string>
+    <string name="image_path_appears_here">Image Path Appears Here</string>
+</resources>
